@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jishnuGG/My_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/jishnuGG/My_Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
