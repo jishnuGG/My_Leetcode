@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/jishnuGG/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/jishnuGG/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jishnuGG/My_Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
