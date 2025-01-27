@@ -14,11 +14,11 @@ class Solution {
         }
         for(int j=i;j<n;j++)
         {
-            if(nums[j]!=target)
+            if(nums[j]==target)
             {
-                last=j-1;
-                break;
+                last=j;
             }
+            if(nums[j]!=target) break;
         }
         int[] arr=new int[2];
         arr[0]=first;
