@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/jishnuGG/My_Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jishnuGG/My_Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jishnuGG/My_Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -148,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/jishnuGG/My_Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/jishnuGG/My_Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/jishnuGG/My_Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/jishnuGG/My_Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/jishnuGG/My_Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/jishnuGG/My_Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
