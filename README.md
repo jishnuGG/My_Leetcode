@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jishnuGG/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jishnuGG/My_Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/jishnuGG/My_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1396-count-servers-that-communicate](https://github.com/jishnuGG/My_Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
