@@ -3,7 +3,6 @@ class Solution {
         int n=grid.length;
         int n1=grid[0].length;
         int N=n*n1;
-        HashSet<Integer> arr=new HashSet<>();
         int[] result=new int[2];
         HashSet<Integer> hs=new HashSet<Integer>();
         int repeated=0;
