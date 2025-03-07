@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jishnuGG/My_Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jishnuGG/My_Leetcode/tree/master/0202-happy-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/jishnuGG/My_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/jishnuGG/My_Leetcode/tree/master/0817-design-hashmap) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
