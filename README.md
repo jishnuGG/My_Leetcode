@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jishnuGG/My_Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jishnuGG/My_Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jishnuGG/My_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jishnuGG/My_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/jishnuGG/My_Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jishnuGG/My_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
