@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jishnuGG/My_Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/jishnuGG/My_Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/jishnuGG/My_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jishnuGG/My_Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jishnuGG/My_Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/jishnuGG/My_Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/jishnuGG/My_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3463-alternating-groups-i) |
