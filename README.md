@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/jishnuGG/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0724-find-pivot-index](https://github.com/jishnuGG/My_Leetcode/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/jishnuGG/My_Leetcode/tree/master/0817-design-hashmap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/jishnuGG/My_Leetcode/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Design
