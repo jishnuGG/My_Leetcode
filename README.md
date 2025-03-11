@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jishnuGG/My_Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jishnuGG/My_Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jishnuGG/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/jishnuGG/My_Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jishnuGG/My_Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jishnuGG/My_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/3483-alternating-groups-ii) |
