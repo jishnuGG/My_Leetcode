@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jishnuGG/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/jishnuGG/My_Leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/jishnuGG/My_Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/jishnuGG/My_Leetcode/tree/master/0817-design-hashmap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jishnuGG/My_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/jishnuGG/My_Leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
