@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/jishnuGG/My_Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jishnuGG/My_Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jishnuGG/My_Leetcode/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/jishnuGG/My_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jishnuGG/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
