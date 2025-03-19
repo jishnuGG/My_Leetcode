@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jishnuGG/My_Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jishnuGG/My_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2350-find-closest-number-to-zero](https://github.com/jishnuGG/My_Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2478-longest-nice-subarray](https://github.com/jishnuGG/My_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jishnuGG/My_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
