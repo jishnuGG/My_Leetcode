@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jishnuGG/My_Leetcode/tree/master/0258-add-digits) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Breadth-First Search
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jishnuGG/My_Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jishnuGG/My_Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/jishnuGG/My_Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jishnuGG/My_Leetcode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Queue
 |  |
