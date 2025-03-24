@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jishnuGG/My_Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/jishnuGG/My_Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jishnuGG/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jishnuGG/My_Leetcode/tree/master/0242-valid-anagram) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3430-count-days-without-meetings](https://github.com/jishnuGG/My_Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
