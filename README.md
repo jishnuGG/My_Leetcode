@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/jishnuGG/My_Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jishnuGG/My_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/jishnuGG/My_Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/jishnuGG/My_Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jishnuGG/My_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/jishnuGG/My_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jishnuGG/My_Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jishnuGG/My_Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jishnuGG/My_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/jishnuGG/My_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -310,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jishnuGG/My_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
