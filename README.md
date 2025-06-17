@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/jishnuGG/My_Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/jishnuGG/My_Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jishnuGG/My_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jishnuGG/My_Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jishnuGG/My_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/jishnuGG/My_Leetcode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/jishnuGG/My_Leetcode/tree/master/2050-count-good-numbers) |
 ## Shortest Path
 |  |
 | ------- |
