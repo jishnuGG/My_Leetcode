@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jishnuGG/My_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jishnuGG/My_Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jishnuGG/My_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/jishnuGG/My_Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2478-longest-nice-subarray](https://github.com/jishnuGG/My_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jishnuGG/My_Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/jishnuGG/My_Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/jishnuGG/My_Leetcode/tree/master/0202-happy-number) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jishnuGG/My_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
