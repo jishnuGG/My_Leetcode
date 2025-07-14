@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jishnuGG/My_Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/jishnuGG/My_Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/jishnuGG/My_Leetcode/tree/master/0817-design-hashmap) |
+| [0898-transpose-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0898-transpose-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/jishnuGG/My_Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/jishnuGG/My_Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jishnuGG/My_Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jishnuGG/My_Leetcode/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Breadth-First Search
 |  |
