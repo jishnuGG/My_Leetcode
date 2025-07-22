@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/jishnuGG/My_Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1813-maximum-erasure-value](https://github.com/jishnuGG/My_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jishnuGG/My_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jishnuGG/My_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jishnuGG/My_Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jishnuGG/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/jishnuGG/My_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jishnuGG/My_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/jishnuGG/My_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3463-alternating-groups-i](https://github.com/jishnuGG/My_Leetcode/tree/master/3463-alternating-groups-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jishnuGG/My_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1813-maximum-erasure-value](https://github.com/jishnuGG/My_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/jishnuGG/My_Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
