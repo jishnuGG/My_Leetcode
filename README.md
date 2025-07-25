@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jishnuGG/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jishnuGG/My_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jishnuGG/My_Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jishnuGG/My_Leetcode/tree/master/0217-contains-duplicate) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jishnuGG/My_Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jishnuGG/My_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jishnuGG/My_Leetcode/tree/master/0202-happy-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jishnuGG/My_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jishnuGG/My_Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jishnuGG/My_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/jishnuGG/My_Leetcode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
