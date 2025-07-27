@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/jishnuGG/My_Leetcode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0898-transpose-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jishnuGG/My_Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-monotonic-array](https://github.com/jishnuGG/My_Leetcode/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/jishnuGG/My_Leetcode/tree/master/0952-word-subsets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jishnuGG/My_Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/jishnuGG/My_Leetcode/tree/master/1031-add-to-array-form-of-integer) |
