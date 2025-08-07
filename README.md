@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/jishnuGG/My_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/jishnuGG/My_Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jishnuGG/My_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2058-concatenation-of-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jishnuGG/My_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jishnuGG/My_Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/jishnuGG/My_Leetcode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/jishnuGG/My_Leetcode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jishnuGG/My_Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Breadth-First Search
 |  |
